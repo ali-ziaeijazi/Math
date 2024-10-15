@@ -9,3 +9,4 @@ const multiple = (a, b) => a * b;
 const sub = (a, b) => a - b;
 
 const pow = (a, e) => a ** e;
+const mod = (a, b) => a % b;
